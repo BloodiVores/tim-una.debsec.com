@@ -6,15 +6,18 @@
         <loc>https://tim-una.debsec.com</loc>
         <lastmod>2023-12-10</lastmod>
         <changefreq>always</changefreq>
+        <priority>0.5</priority>
     </url>
-<url>
+    <url>
         <loc>https://tim-una.debsec.com/darah88.html</loc>
         <lastmod>2023-12-10</lastmod>
         <changefreq>always</changefreq>
+        <priority>0.5</priority>
     </url>
-<url>
+    <url>
         <loc>https://tim-una.debsec.com/dinasti923.html</loc>
         <lastmod>2023-12-10</lastmod>
         <changefreq>always</changefreq>
+        <priority>0.5</priority>
     </url>
 </urlset>
